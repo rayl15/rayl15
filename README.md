@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Multi Tenant SaaS Plateform on AWS and Decentralised Communication System **
+- 🔭 I’m currently working on **Multi Tenant SaaS Plateform on AWS and Decentralised Communication System**
 
 - 🌱 I’m currently learning **Multiple Open-Source Technologies and Cloud Native Technologies**
 
