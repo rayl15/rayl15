@@ -5,9 +5,9 @@
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
-- 🔭 I’m currently working on **Multi Tenant SaaS Plateform on AWS**
+- 🔭 I’m currently working on **Multi Tenant SaaS Plateform on AWS and Decentralised Communication System **
 
-- 🌱 I’m currently learning **Multiple Open-Source Technologies**
+- 🌱 I’m currently learning **Multiple Open-Source Technologies and Cloud Native Technologies**
 
 - 📝 I regularly write articles on [https://medium.com/@rahu1](https://medium.com/@rahu1)
 
