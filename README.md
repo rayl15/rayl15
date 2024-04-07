@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Multi Tenant SaaS Plateform on AWS**
 
-- 🌱 I’m currently learning **Multiple Opensource Technologies**
+- 🌱 I’m currently learning **Multiple Open-Source Technologies**
 
 - 📝 I regularly write articles on [https://medium.com/@rahu1](https://medium.com/@rahu1)
 
