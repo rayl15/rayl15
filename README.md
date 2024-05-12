@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Everything You Need Know About Lambda Cold Start!](https://rahu1.medium.com/everything-you-need-know-about-lambda-cold-start-8db4ec39ca45?source=rss-e4bb6f9c6d4d------2)
 - [This Is Why Your AWS AZ Is Not Same as Mine!](https://rahu1.medium.com/this-is-why-your-aws-az-is-not-same-as-mine-605f71adaa61?source=rss-e4bb6f9c6d4d------2)
 - [Architecting Scalable Web Architecture and Distributed Systems- Part 1](https://rahu1.medium.com/architecting-scalable-web-architecture-and-distributed-systems-part-1-6877ba71c655?source=rss-e4bb6f9c6d4d------2)
 - [Understanding Redis Memory Management](https://rahu1.medium.com/understanding-redis-memory-management-73358e361427?source=rss-e4bb6f9c6d4d------2)
-- [The Last Blog to Understand Kubernetes RBAC](https://rahu1.medium.com/the-last-blog-to-understand-kubernetes-rbac-f56f568053c8?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
