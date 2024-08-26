@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [M vs. R: The AWS Interview Question Almost Everyone Gets Wrong!](https://towardsaws.com/m-vs-r-the-aws-interview-question-almost-everyone-gets-wrong-33b7bee4977a?source=rss-e4bb6f9c6d4d------2)
 - [How AWS Lambda Scaling Affects Downstream Systems: What You Need to Know](https://towardsaws.com/how-aws-lambda-scaling-affects-downstream-systems-what-you-need-to-know-83e7ec5d4082?source=rss-e4bb6f9c6d4d------2)
 - [Learn How To Scale Node Js Applications!](https://rahu1.medium.com/learn-how-scale-node-applications-6268135bf105?source=rss-e4bb6f9c6d4d------2)
 - [Generative AI: Strategies for Model Updates and Deployments in AWS](https://rahu1.medium.com/generative-ai-strategies-for-model-updates-and-deployments-in-aws-1a66f974cd84?source=rss-e4bb6f9c6d4d------2)
-- [How To Select The Right Database?](https://rahu1.medium.com/how-to-select-the-right-database-b2e6024fa203?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
