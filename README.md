@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [5 Costly AWS Lambda Cold Start Mistakes You’re Probably Making](https://towardsaws.com/5-costly-aws-lambda-cold-start-mistakes-youre-probably-making-2ce93bb6a17c?source=rss-e4bb6f9c6d4d------2)
 - [How I Built My Own Terraform-Like Enterprise Platform](https://aws.plainenglish.io/how-i-built-my-own-terraform-like-enterprise-platform-1c7657cd2706?source=rss-e4bb6f9c6d4d------2)
 - [Can You Run Virtual Machines on EKS? The Answer May Surprise You!](https://towardsaws.com/can-you-run-virtual-machines-on-eks-the-answer-may-surprise-you-df6cf95d4f66?source=rss-e4bb6f9c6d4d------2)
 - [M vs. R: The AWS Interview Question Almost Everyone Gets Wrong!](https://towardsaws.com/m-vs-r-the-aws-interview-question-almost-everyone-gets-wrong-33b7bee4977a?source=rss-e4bb6f9c6d4d------2)
-- [How AWS Lambda Scaling Affects Downstream Systems: What You Need to Know](https://towardsaws.com/how-aws-lambda-scaling-affects-downstream-systems-what-you-need-to-know-83e7ec5d4082?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
