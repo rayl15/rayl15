@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Relying Only on package.json Could Break Your Node.js App](https://javascript.plainenglish.io/why-relying-only-on-package-json-could-break-your-node-js-app-269b1dc40047?source=rss-e4bb6f9c6d4d------2)
 - [And then they will try to kill us all](https://generativeai.pub/and-then-they-will-try-to-kill-us-all-e1dd12b79f2f?source=rss-e4bb6f9c6d4d------2)
 - [What I Learned After 100 Hours with ChatGPT](https://generativeai.pub/what-i-learned-after-100-hours-with-chatgpt-ace90474b2f7?source=rss-e4bb6f9c6d4d------2)
 - [5 Costly AWS Lambda Cold Start Mistakes You’re Probably Making](https://towardsaws.com/5-costly-aws-lambda-cold-start-mistakes-youre-probably-making-2ce93bb6a17c?source=rss-e4bb6f9c6d4d------2)
-- [How I Built My Own Terraform-Like Enterprise Platform](https://aws.plainenglish.io/how-i-built-my-own-terraform-like-enterprise-platform-1c7657cd2706?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
