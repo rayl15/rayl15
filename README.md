@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [How We Solved Microservices Chaos with an API Gateway](https://levelup.gitconnected.com/how-we-solved-microservices-chaos-with-an-api-gateway-1ea2f6027782?source=rss-e4bb6f9c6d4d------2)
 - [I have Asked This SSH Question in Every AWS Interview — And Here’s the Catch](https://aws.plainenglish.io/i-have-asked-this-ssh-question-in-every-aws-interview-and-heres-the-catch-ee2013a83e99?source=rss-e4bb6f9c6d4d------2)
 - [Why Relying Only on package.json Could Break Your Node.js App](https://javascript.plainenglish.io/why-relying-only-on-package-json-could-break-your-node-js-app-269b1dc40047?source=rss-e4bb6f9c6d4d------2)
 - [And then they will try to kill us all](https://generativeai.pub/and-then-they-will-try-to-kill-us-all-e1dd12b79f2f?source=rss-e4bb6f9c6d4d------2)
-- [What I Learned After 100 Hours with ChatGPT](https://generativeai.pub/what-i-learned-after-100-hours-with-chatgpt-ace90474b2f7?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
