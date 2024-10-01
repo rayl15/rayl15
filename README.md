@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Had Trust Issues With ChatGPT, So I Built My Private ChatGPT Server](https://generativeai.pub/i-had-trust-issues-with-chatgpt-so-i-built-my-private-chatgpt-server-8957fbe99bf1?source=rss-e4bb6f9c6d4d------2)
 - [What Really Happens When You Create a File in Linux? Spoiler: It’s Not About Storing Data!](https://levelup.gitconnected.com/what-really-happens-when-you-create-a-file-in-linux-spoiler-its-not-about-storing-data-f372e9c21344?source=rss-e4bb6f9c6d4d------2)
 - [The Terraform Scenario You’re Likely to Encounter in Any Interview](https://aws.plainenglish.io/the-terraform-scenario-youre-likely-to-encounter-in-any-interview-c14d32005628?source=rss-e4bb6f9c6d4d------2)
 - [How We Solved Microservices Chaos with an API Gateway](https://levelup.gitconnected.com/how-we-solved-microservices-chaos-with-an-api-gateway-1ea2f6027782?source=rss-e4bb6f9c6d4d------2)
-- [I have Asked This SSH Question in Every AWS Interview — And Here’s the Catch](https://aws.plainenglish.io/i-have-asked-this-ssh-question-in-every-aws-interview-and-heres-the-catch-ee2013a83e99?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
