@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Storing Data with Ping? True Cloud Storage?](https://levelup.gitconnected.com/storing-data-with-ping-true-cloud-storage-3872c018f5f1?source=rss-e4bb6f9c6d4d------2)
 - [Tech Interview Troubles? Here’s How to Solve Issues Like a Pro](https://levelup.gitconnected.com/tech-interview-troubles-heres-how-to-solve-issues-like-a-pro-02d4102b5dfb?source=rss-e4bb6f9c6d4d------2)
 - [You have Misunderstood AWS Availability Zones](https://aws.plainenglish.io/you-have-misunderstood-aws-availability-zones-47cdea0a168a?source=rss-e4bb6f9c6d4d------2)
 - [You Won’t Believe What I Discovered About IP Addresses!](https://levelup.gitconnected.com/you-wont-believe-what-i-discovered-about-ip-addresses-570fe767499e?source=rss-e4bb6f9c6d4d------2)
-- [I Had Trust Issues With ChatGPT, So I Built My Private ChatGPT Server](https://generativeai.pub/i-had-trust-issues-with-chatgpt-so-i-built-my-private-chatgpt-server-8957fbe99bf1?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
