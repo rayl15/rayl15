@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why 0177.0.0.1 Is Still Your Localhost](https://levelup.gitconnected.com/why-0177-0-0-1-is-still-your-localhost-87c566a1607f?source=rss-e4bb6f9c6d4d------2)
 - [We Need to Talk About DevOps](https://medium.com/write-a-catalyst/we-need-to-talk-about-devops-75c36881f725?source=rss-e4bb6f9c6d4d------2)
 - [Storing Data with Ping? True Cloud Storage?](https://levelup.gitconnected.com/storing-data-with-ping-true-cloud-storage-3872c018f5f1?source=rss-e4bb6f9c6d4d------2)
 - [Tech Interview Troubles? Here’s How to Solve Issues Like a Pro](https://levelup.gitconnected.com/tech-interview-troubles-heres-how-to-solve-issues-like-a-pro-02d4102b5dfb?source=rss-e4bb6f9c6d4d------2)
-- [You have Misunderstood AWS Availability Zones](https://aws.plainenglish.io/you-have-misunderstood-aws-availability-zones-47cdea0a168a?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
