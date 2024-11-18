@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Stop Guessing, Start Fixing: Master Linux Performance with Perf](https://levelup.gitconnected.com/stop-guessing-start-fixing-master-linux-performance-with-perf-0927d58d92c1?source=rss-e4bb6f9c6d4d------2)
 - [7 AWS VPC Best Practices Every Cloud Engineer Should Know](https://aws.plainenglish.io/7-aws-vpc-best-practices-every-cloud-engineer-should-know-589c9fa7a016?source=rss-e4bb6f9c6d4d------2)
 - [CEO Challenges Job Applicants With 3-Second Brain Teaser](https://medium.com/write-a-catalyst/ceo-challenges-job-applicants-with-3-second-brain-teaser-93cf87ecdbb0?source=rss-e4bb6f9c6d4d------2)
 - [Why 0177.0.0.1 Is Still Your Localhost](https://levelup.gitconnected.com/why-0177-0-0-1-is-still-your-localhost-87c566a1607f?source=rss-e4bb6f9c6d4d------2)
-- [We Need to Talk About DevOps](https://medium.com/write-a-catalyst/we-need-to-talk-about-devops-75c36881f725?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
