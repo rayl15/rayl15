@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [The AI Tool That Cuts Your Docker Container Sizes by 80%](https://generativeai.pub/the-ai-tool-that-cuts-your-docker-container-sizes-by-80-08cf1644cf34?source=rss-e4bb6f9c6d4d------2)
 - [Why Building an AI Twin Is the Next Big Thing in Personal Branding](https://generativeai.pub/why-building-an-ai-twin-is-the-next-big-thing-in-personal-branding-e69b6d8162ad?source=rss-e4bb6f9c6d4d------2)
 - [Alert Fatigue: Why Your On-Call System Is Broken and Ruining DevOps](https://levelup.gitconnected.com/alert-fatigue-why-your-on-call-system-is-broken-and-ruining-devops-71aba27c5680?source=rss-e4bb6f9c6d4d------2)
 - [How You Can Avoid Surprise AWS Networking Bills](https://aws.plainenglish.io/how-you-can-avoid-surprise-aws-networking-bills-101a185fd268?source=rss-e4bb6f9c6d4d------2)
-- [Cut Your AWS Costs in Half with These In-Depth Strategies](https://aws.plainenglish.io/cut-your-aws-costs-in-half-with-these-in-depth-strategies-c7954adc8b95?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
