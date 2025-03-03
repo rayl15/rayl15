@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I Asked This Linux Question in Almost Every Interview](https://levelup.gitconnected.com/i-asked-this-linux-question-in-almost-every-interview-e6afdd6b02ee?source=rss-e4bb6f9c6d4d------2)
 - [I Asked This Basic Terraform Question in Every Interview — And Here’s the Catch](https://levelup.gitconnected.com/i-asked-this-basic-terraform-question-in-every-interview-and-heres-the-catch-b1a0731cdeef?source=rss-e4bb6f9c6d4d------2)
 - [How Do AI Models Understand Text?](https://generativeai.pub/how-do-ai-models-understand-text-58defdf4b0c1?source=rss-e4bb6f9c6d4d------2)
 - [I Asked This Kubernetes Question in Every Interview — And Here’s the Catch](https://levelup.gitconnected.com/i-asked-this-kubernetes-question-in-every-interview-and-heres-the-catch-6d37cc7cb7a5?source=rss-e4bb6f9c6d4d------2)
-- [The AI Tool That Cuts Your Docker Container Sizes by 80%](https://generativeai.pub/the-ai-tool-that-cuts-your-docker-container-sizes-by-80-08cf1644cf34?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
