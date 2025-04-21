@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [This One-Liner in Bash Crashed Production — And It Wasn’t Even Wrong](https://levelup.gitconnected.com/this-one-liner-in-bash-crashed-production-and-it-wasnt-even-wrong-68736db89b85?source=rss-e4bb6f9c6d4d------2)
 - [I Asked This Linux Question in Almost Every Interview](https://levelup.gitconnected.com/i-asked-this-linux-question-in-almost-every-interview-e6afdd6b02ee?source=rss-e4bb6f9c6d4d------2)
 - [I Asked This Basic Terraform Question in Every Interview — And Here’s the Catch](https://levelup.gitconnected.com/i-asked-this-basic-terraform-question-in-every-interview-and-heres-the-catch-b1a0731cdeef?source=rss-e4bb6f9c6d4d------2)
 - [How Do AI Models Understand Text?](https://generativeai.pub/how-do-ai-models-understand-text-58defdf4b0c1?source=rss-e4bb6f9c6d4d------2)
-- [I Asked This Kubernetes Question in Every Interview — And Here’s the Catch](https://levelup.gitconnected.com/i-asked-this-kubernetes-question-in-every-interview-and-heres-the-catch-6d37cc7cb7a5?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
