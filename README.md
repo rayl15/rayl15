@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Nginx: The Underrated Load Balancer That Might Already Be Running in Your Stack](https://levelup.gitconnected.com/nginx-the-underrated-load-balancer-that-might-already-be-running-in-your-stack-b56136301eb1?source=rss-e4bb6f9c6d4d------2)
 - [A Fully Functional AWS Architecture That Costs $0/Month](https://aws.plainenglish.io/a-fully-functional-aws-architecture-that-costs-0-month-96d9ac5b11bd?source=rss-e4bb6f9c6d4d------2)
 - [This One-Liner in Bash Crashed Production — And It Wasn’t Even Wrong](https://levelup.gitconnected.com/this-one-liner-in-bash-crashed-production-and-it-wasnt-even-wrong-68736db89b85?source=rss-e4bb6f9c6d4d------2)
 - [I Asked This Linux Question in Almost Every Interview](https://levelup.gitconnected.com/i-asked-this-linux-question-in-almost-every-interview-e6afdd6b02ee?source=rss-e4bb6f9c6d4d------2)
-- [I Asked This Basic Terraform Question in Every Interview — And Here’s the Catch](https://levelup.gitconnected.com/i-asked-this-basic-terraform-question-in-every-interview-and-heres-the-catch-b1a0731cdeef?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
