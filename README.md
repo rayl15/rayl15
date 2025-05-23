@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Vibe Coding Your Microservices Architecture? Welcome to the Future We Didn’t Ask For!](https://levelup.gitconnected.com/vibe-coding-your-microservices-architecture-welcome-to-the-future-we-didnt-ask-for-9ab5f77c8c03?source=rss-e4bb6f9c6d4d------2)
 - [Open Source Is Being Attacked by AI Garbage — Here’s How curl Fought Back](https://generativeai.pub/open-source-is-being-attacked-by-ai-garbage-heres-how-curl-fought-back-8ec888e39509?source=rss-e4bb6f9c6d4d------2)
 - [SQL Is Dead, NoSQL Is Dying, and NewSQL Is Quietly Taking Over](https://levelup.gitconnected.com/sql-is-dead-nosql-is-dying-and-newsql-is-quietly-taking-over-114a17986cfe?source=rss-e4bb6f9c6d4d------2)
 - [Why Kubernetes Might Not Be Right for Your Team — Even in 2025](https://levelup.gitconnected.com/why-kubernetes-might-not-be-right-for-your-team-even-in-2025-47cdb563ee94?source=rss-e4bb6f9c6d4d------2)
-- [Nginx: The Underrated Load Balancer That Might Already Be Running in Your Stack](https://levelup.gitconnected.com/nginx-the-underrated-load-balancer-that-might-already-be-running-in-your-stack-b56136301eb1?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
