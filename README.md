@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Kubernetes Config Is Leaking Secrets Right Now](https://levelup.gitconnected.com/your-kubernetes-config-is-leaking-secrets-right-now-e5f82b82427a?source=rss-e4bb6f9c6d4d------2)
 - [Why My 2014 College Project Makes Me Rethink How We Code Today](https://rahu1.medium.com/why-my-2014-college-project-makes-me-rethink-how-we-code-today-c60cc16119ed?source=rss-e4bb6f9c6d4d------2)
 - [Debugging a 100% CPU Spike That Wasn’t a Spike &lpar;Thanks top!&rpar;](https://levelup.gitconnected.com/debugging-a-100-cpu-spike-that-wasnt-a-spike-thanks-top-67fa7a4ca6ca?source=rss-e4bb6f9c6d4d------2)
 - [Vibe Coding Your Microservices Architecture? Welcome to the Future We Didn’t Ask For!](https://levelup.gitconnected.com/vibe-coding-your-microservices-architecture-welcome-to-the-future-we-didnt-ask-for-9ab5f77c8c03?source=rss-e4bb6f9c6d4d------2)
-- [Open Source Is Being Attacked by AI Garbage — Here’s How curl Fought Back](https://generativeai.pub/open-source-is-being-attacked-by-ai-garbage-heres-how-curl-fought-back-8ec888e39509?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
