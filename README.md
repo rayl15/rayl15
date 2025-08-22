@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why Most GenAI Projects Are Failing](https://levelup.gitconnected.com/why-most-genai-projects-are-failing-ba87b552dc67?source=rss-e4bb6f9c6d4d------2)
 - [If You Trust AI-Generated Cloud Code, You Deserve the Outage](https://levelup.gitconnected.com/if-you-trust-ai-generated-cloud-code-you-deserve-the-outage-ea9bfb5685cb?source=rss-e4bb6f9c6d4d------2)
 - [Stop Defaulting to Vector Databases: Sometimes You Need a Knowledge Graph](https://rahu1.medium.com/stop-defaulting-to-vector-databases-sometimes-you-need-a-knowledge-graph-8a0fb5430ae7?source=rss-e4bb6f9c6d4d------2)
 - [Your Kubernetes Config Is Leaking Secrets Right Now](https://levelup.gitconnected.com/your-kubernetes-config-is-leaking-secrets-right-now-e5f82b82427a?source=rss-e4bb6f9c6d4d------2)
-- [Why My 2014 College Project Makes Me Rethink How We Code Today](https://rahu1.medium.com/why-my-2014-college-project-makes-me-rethink-how-we-code-today-c60cc16119ed?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
