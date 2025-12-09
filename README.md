@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Why You Should Know All 5 Kubernetes Service Types &lpar;Even If You Only Use 2&rpar;](https://levelup.gitconnected.com/why-you-should-know-all-5-kubernetes-service-types-even-if-you-only-use-2-9b9bc4492528?source=rss-e4bb6f9c6d4d------2)
 - [How a $45 NAT Gateway Becomes a $500 AWS Budget Disaster](https://aws.plainenglish.io/how-a-45-nat-gateway-becomes-a-500-aws-budget-disaster-4985688a7a9e?source=rss-e4bb6f9c6d4d------2)
 - [EKS Users, Read This: The SAP AI Core Hack Shows How One Pod Can Compromise Them All](https://levelup.gitconnected.com/eks-users-read-this-the-sap-ai-core-hack-shows-how-one-pod-can-compromise-them-all-fcf08b79daf5?source=rss-e4bb6f9c6d4d------2)
 - [I Asked This Terraform Question in Every DevOps Interview And 90% Get It Wrong](https://aws.plainenglish.io/i-asked-this-terraform-question-in-every-devops-interview-and-90-get-it-wrong-4072df91e254?source=rss-e4bb6f9c6d4d------2)
-- [That Docker Image You Pulled from Hub Has a Root Shell. Here’s How to Prove It](https://levelup.gitconnected.com/that-docker-image-you-pulled-from-hub-has-a-root-shell-heres-how-to-prove-it-c0f5363027d2?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
