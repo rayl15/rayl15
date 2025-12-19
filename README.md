@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Agentic AI on AWS: When AI Stops Answering and Starts Doing](https://aws.plainenglish.io/agentic-ai-on-aws-when-ai-stops-answering-and-starts-doing-f00719fbd825?source=rss-e4bb6f9c6d4d------2)
 - [Agentic AI, Serverless, and MCP: Building the Next Generation of Intelligent Applications](https://rahu1.medium.com/agentic-ai-serverless-and-mcp-building-the-next-generation-of-intelligent-applications-e0bdf4e448bd?source=rss-e4bb6f9c6d4d------2)
 - [Why You Should Know All 5 Kubernetes Service Types &lpar;Even If You Only Use 2&rpar;](https://levelup.gitconnected.com/why-you-should-know-all-5-kubernetes-service-types-even-if-you-only-use-2-9b9bc4492528?source=rss-e4bb6f9c6d4d------2)
 - [How a $45 NAT Gateway Becomes a $500 AWS Budget Disaster](https://aws.plainenglish.io/how-a-45-nat-gateway-becomes-a-500-aws-budget-disaster-4985688a7a9e?source=rss-e4bb6f9c6d4d------2)
-- [EKS Users, Read This: The SAP AI Core Hack Shows How One Pod Can Compromise Them All](https://levelup.gitconnected.com/eks-users-read-this-the-sap-ai-core-hack-shows-how-one-pod-can-compromise-them-all-fcf08b79daf5?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
