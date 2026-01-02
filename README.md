@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [AI Agents Are Taking Over Your CI/CD Pipeline &lpar;And That’s a Good Thing&rpar;](https://rahu1.medium.com/ai-agents-are-taking-over-your-ci-cd-pipeline-and-thats-a-good-thing-3286f59e603f?source=rss-e4bb6f9c6d4d------2)
 - [Your Kubernetes Cluster Is Bleeding Money: Here’s How to Stop It](https://rahu1.medium.com/your-kubernetes-cluster-is-bleeding-money-heres-how-to-stop-it-c50bafb8044f?source=rss-e4bb6f9c6d4d------2)
 - [Agentic AI on AWS: When AI Stops Answering and Starts Doing](https://aws.plainenglish.io/agentic-ai-on-aws-when-ai-stops-answering-and-starts-doing-f00719fbd825?source=rss-e4bb6f9c6d4d------2)
 - [Agentic AI, Serverless, and MCP: Building the Next Generation of Intelligent Applications](https://rahu1.medium.com/agentic-ai-serverless-and-mcp-building-the-next-generation-of-intelligent-applications-e0bdf4e448bd?source=rss-e4bb6f9c6d4d------2)
-- [Why You Should Know All 5 Kubernetes Service Types &lpar;Even If You Only Use 2&rpar;](https://levelup.gitconnected.com/why-you-should-know-all-5-kubernetes-service-types-even-if-you-only-use-2-9b9bc4492528?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
