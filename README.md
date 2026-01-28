@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Most Kubernetes Incidents Start Before the First Pod Is Created](https://levelup.gitconnected.com/most-kubernetes-incidents-start-before-the-first-pod-is-created-a8e7f9c8381b?source=rss-e4bb6f9c6d4d------2)
 - [Why Terraform State Locking Is a Textbook Example of Solving the Wrong Problem](https://rahu1.medium.com/why-terraform-state-locking-is-a-textbook-example-of-solving-the-wrong-problem-a2f8aed7830f?source=rss-e4bb6f9c6d4d------2)
 - [AWS Just Replaced Your On-Call Engineer With an AI Agent](https://generativeai.pub/aws-just-replaced-your-on-call-engineer-with-an-ai-agent-500bc5e6b009?source=rss-e4bb6f9c6d4d------2)
 - [DevOps in 2026: Work With AI or Be Replaced By Those Who Do](https://rahu1.medium.com/devops-in-2026-work-with-ai-or-be-replaced-by-those-who-do-cc4f85042895?source=rss-e4bb6f9c6d4d------2)
-- [AI Agents Are Taking Over Your CI/CD Pipeline &lpar;And That’s a Good Thing&rpar;](https://rahu1.medium.com/ai-agents-are-taking-over-your-ci-cd-pipeline-and-thats-a-good-thing-3286f59e603f?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
