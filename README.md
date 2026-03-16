@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [RAG Looks Easy, Until You Try It at Scale](https://ai.plainenglish.io/rag-looks-easy-until-you-try-it-at-scale-e807846fca6a?source=rss-e4bb6f9c6d4d------2)
 - [Your AI App Shouldn’t Call OpenAI Directly](https://generativeai.pub/your-ai-app-shouldnt-call-openai-directly-663e0d272ff4?source=rss-e4bb6f9c6d4d------2)
 - [I Built an AI Assistant for Smart Glasses and I Open-Sourced it.](https://rahu1.medium.com/i-built-an-ai-assistant-for-smart-glasses-and-i-open-sourced-it-148e0b130319?source=rss-e4bb6f9c6d4d------2)
 - [Most Kubernetes Incidents Start Before the First Pod Is Created](https://levelup.gitconnected.com/most-kubernetes-incidents-start-before-the-first-pod-is-created-a8e7f9c8381b?source=rss-e4bb6f9c6d4d------2)
-- [Why Terraform State Locking Is a Textbook Example of Solving the Wrong Problem](https://rahu1.medium.com/why-terraform-state-locking-is-a-textbook-example-of-solving-the-wrong-problem-a2f8aed7830f?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
