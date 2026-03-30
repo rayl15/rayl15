@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [Your Multi-Agent System Works in a Demo, Production Is a Different Story!](https://levelup.gitconnected.com/your-multi-agent-system-works-in-a-demo-production-is-a-different-story-2f8ff6350664?source=rss-e4bb6f9c6d4d------2)
 - [Why Your AI Prototype Will Fail in Production &lpar;And Exactly How to Fix It&rpar;](https://levelup.gitconnected.com/why-your-ai-prototype-will-fail-in-production-and-exactly-how-to-fix-it-c713be0c2fb1?source=rss-e4bb6f9c6d4d------2)
 - [RAG Looks Easy, Until You Try It at Scale](https://ai.plainenglish.io/rag-looks-easy-until-you-try-it-at-scale-e807846fca6a?source=rss-e4bb6f9c6d4d------2)
 - [Your AI App Shouldn’t Call OpenAI Directly](https://generativeai.pub/your-ai-app-shouldnt-call-openai-directly-663e0d272ff4?source=rss-e4bb6f9c6d4d------2)
-- [I Built an AI Assistant for Smart Glasses and I Open-Sourced it.](https://rahu1.medium.com/i-built-an-ai-assistant-for-smart-glasses-and-i-open-sourced-it-148e0b130319?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
