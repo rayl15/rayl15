@@ -19,10 +19,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [I SpentWeeks Building Agent Memory on Aurora and pgvector. Then AWS Shipped It as a Primitive.](https://levelup.gitconnected.com/i-spentweeks-building-agent-memory-on-aurora-and-pgvector-then-aws-shipped-it-as-a-primitive-13b424df4b84?source=rss-e4bb6f9c6d4d------2)
 - [PostgreSQL Is Still Your Best Default. Here’s the Exact Moment You Should Stop Using It Alone.](https://levelup.gitconnected.com/postgresql-is-still-your-best-default-heres-the-exact-moment-you-should-stop-using-it-alone-8c600528a76d?source=rss-e4bb6f9c6d4d------2)
 - [I built an AI agent in 15 lines of Python. Here’s the whole thing.](https://levelup.gitconnected.com/i-built-an-ai-agent-in-15-lines-of-python-heres-the-whole-thing-60eb95ffb7de?source=rss-e4bb6f9c6d4d------2)
 - [Your Multi-Agent System Works in a Demo, Production Is a Different Story!](https://levelup.gitconnected.com/your-multi-agent-system-works-in-a-demo-production-is-a-different-story-2f8ff6350664?source=rss-e4bb6f9c6d4d------2)
-- [Why Your AI Prototype Will Fail in Production &lpar;And Exactly How to Fix It&rpar;](https://levelup.gitconnected.com/why-your-ai-prototype-will-fail-in-production-and-exactly-how-to-fix-it-c713be0c2fb1?source=rss-e4bb6f9c6d4d------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
